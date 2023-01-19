@@ -1,4 +1,5 @@
-//make a server-socket app that reads json from socket and parses it into the console.
+//Server-socket app that reads json from socket and parses it into the console.
+//User is able to enter the port to start the server
 import java.io.*;
 import java.net.*;
 import java.util.*;
