@@ -1,4 +1,7 @@
-//make a server-socket app that reads json from socket and parses it into the console.
+// Server-socket app that reads json from socket and parses it into the console.
+// User is able to enter the port to start the server
+// Prorotype JDBC connection?
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
